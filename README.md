@@ -20,4 +20,13 @@ This implementation shows how HTTP requests and responses work at a low level, w
 
 ---
 
-## Project Structure
+## Requirements
+- Python 3.x  
+(No third-party dependencies required)
+
+---
+
+Learning Outcomes
+Practical experience with socket programming in Python.
+Understanding of HTTP protocol basics.
+Hands-on knowledge of client-server communication.
